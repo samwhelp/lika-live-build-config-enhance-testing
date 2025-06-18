@@ -1,8 +1,8 @@
 
 
-# lika-live-build-respin-xfce
+# lika-live-build-config-enhance-testing
 
-> [lika-live-build-respin-xfce](https://samwhelp.github.io/lika-live-build-respin-xfce/)
+> [lika-live-build-config-enhance-testing](https://samwhelp.github.io/lika-live-build-config-enhance-testing/)
 
 
 
