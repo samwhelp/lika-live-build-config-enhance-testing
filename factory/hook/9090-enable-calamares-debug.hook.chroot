@@ -5,6 +5,11 @@ set -e
 
 
 
+return 0
+
+
+
+
 ##
 ## ## Enable debug mode for Calamares
 ##
