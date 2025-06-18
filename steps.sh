@@ -201,7 +201,7 @@ master_var_init () {
 	REF_ISO_PROFILE_DIR_NAME="iso-profile"
 	REF_ISO_PROFILE_DIR_PATH="${REF_PLAN_WORK_DIR_PATH}/${REF_ISO_PROFILE_DIR_NAME}"
 
-	REF_ISO_PROFILE_REPO_GIT_URL="https://github.com/samwhelp/lika-live-build-config-enhance-testing.git"
+	REF_ISO_PROFILE_REPO_GIT_URL="https://github.com/samwhelp/lika-live-build-config-testing.git"
 
 
 	##
