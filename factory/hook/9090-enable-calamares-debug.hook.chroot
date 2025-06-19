@@ -5,13 +5,8 @@ set -e
 
 
 
-return 0
-
-
-
-
 ##
 ## ## Enable debug mode for Calamares
 ##
 
-sed -i -e 's|^ *pkexec calamares|pkexec calamares -d|' /usr/bin/install-debian
+sed -i -e 's|^ *pkexec calamares|pkexec calamares -d|' /usr/bin/calamares-install-debian
